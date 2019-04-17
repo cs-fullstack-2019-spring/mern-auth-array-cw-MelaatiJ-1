@@ -52,7 +52,7 @@ var createHash = function(password){
 // });
 
 router.post("/",
-    passport.authenticate("signup", {failsure})
+    passport.authenticate("signup", {failureRedirect:"/users/failNewUser"})
 
     )
 
