@@ -9,3 +9,4 @@ Create the following pages:
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+^X^Cstudent@student-ThinkPad-T440-G:~/CodeSchool/IdeaProjects/MERN/mern-auth-array-cw-MelaatiJ-1/server$ sudo sudo fuser -k 8000/tcp0/tcp
