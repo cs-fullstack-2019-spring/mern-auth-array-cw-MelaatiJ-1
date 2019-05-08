@@ -10,3 +10,6 @@ Create the following pages:
 
 Make sure to use cookies, and salt/hash your passwords.
 ^X^Cstudent@student-ThinkPad-T440-G:~/CodeSchool/IdeaProjects/MERN/mern-auth-array-cw-MelaatiJ-1/server$ sudo sudo fuser -k 8000/tcp0/tcp
+
+<hr>
+0 points. It doesn't look like any work was done on the front end and the backend is a copy of a previous practice.
